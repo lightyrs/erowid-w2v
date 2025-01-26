@@ -1,0 +1,7 @@
+[env._.python.venv]
+path = ".venv"
+create = true
+
+[tools]
+poetry = "2.0.1"
+python = "3.11"
